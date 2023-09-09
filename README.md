@@ -5,7 +5,7 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 
 ## 💼 What I'm Currently Up To
 
-- 📚 Studying Software Engineering at EFREI PARIS
+- 📚 Studying Software Engineering at **EFREI PARIS**
 - 💻 Exploring the latest web development technologies and frameworks
 - 🌐 Building and designing websites and web applications
 - 📝 Learning and staying curious about web-related and software engineering topics
