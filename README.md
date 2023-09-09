@@ -31,7 +31,7 @@ Thanks for stopping by and checking out my profile! Feel free to connect and exp
 
 </br>
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=kuhame&&style=flat-square" />
 </div>  
   
