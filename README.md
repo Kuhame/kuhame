@@ -12,7 +12,7 @@ I'm constantly learning and exploring new technologies to enhance my skills and 
 
 ## 🚀 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=react,django,spring,bootstrap,html,css,js,nodejs,java,figma,git,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,django,spring,bootstrap,html,css,js,nodejs,java,figma,php,git,docker&perline=4)](https://skillicons.dev)
 
 ## 🎯 Goals
 
